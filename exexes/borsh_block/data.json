@@ -1,0 +1,8 @@
+{
+    "name": "Borsh Block",
+    "ticker": "BBExEx",
+    "description": "serialize & deserialize block object in Borsh",
+    "url": "https://github.com/weaveVM/wvm-reth/tree/6091facc0d8750d69a4b2de8137646a202401bb6/wvm-apps/wvm-exexed/crates/borsh",
+    "tags": ["serialization", "block"],
+    "license": "MIT"
+}
