@@ -2,6 +2,6 @@
     "name": "Reth ExEx Examples Remote",
     "description": "Emits notifications using a gRPC server, and a consumer that receives them",
     "url": "https://github.com/paradigmxyz/reth-exex-examples/tree/main/remote",
-    "tags": ["paradigm-repo", "grpc"],
+    "tags": ["paradigm-repo", "ipc"],
     "license": "MIT"
-}
+  }  

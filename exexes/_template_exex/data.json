@@ -1,0 +1,7 @@
+{
+    "name": "Choose a display name",
+    "description": "required description",
+    "url": "the ExEx repository URL",
+    "tags": ["choose a tag from the list in README.md"],
+    "license": "license type"
+}
