@@ -1,6 +1,12 @@
 ## About
 [exex.rs](https://exex.rs) is a platform where you can find a curated list of Reth ExExes, AKA "the chainlist of ExExes". ***Note that [exex.rs](https://exex.rs) is not affiliated with the Paradigm team or the Reth team.***
 
+## What are Execution Extensions?
+Execution Extensions (or ExExes, for short) allow developers to build their own infrastructure that relies on Reth as a base for driving the chain (be it Ethereum or OP Stack) forward.
+
+An Execution Extension is a task that derives its state from changes in Reth's state. Some examples of such state derivations are rollups, bridges, and indexers.
+
+They are called Execution Extensions because the main trigger for them is the execution of new blocks (or reorgs of old blocks) initiated by Reth. [source](https://reth.rs/developers/exex/exex.html)
 
 ## Add an ExEx Object
 
@@ -13,7 +19,7 @@ To add an ExEx object, follow these steps in your PR:
 
 3. Ensure that your tags are supported. If the tags you need are not supported, create a GitHub issue to add the tags.
 
-### Tags list
+#### Tags list
 
 | tag  | description |
 | :-------------: |:-------------:|
