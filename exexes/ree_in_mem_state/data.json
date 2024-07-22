@@ -1,0 +1,7 @@
+{
+    "name": "Reth ExEx Examples In Memory State",
+    "description": "Tracks the plain state in memory",
+    "url": "https://github.com/paradigmxyz/reth-exex-examples/tree/main/in-memory-state",
+    "tags": ["paradigm-repo", "memory"],
+    "license": "MIT"
+}

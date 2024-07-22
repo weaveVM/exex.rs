@@ -1,6 +1,5 @@
 {
     "name": "Reth ExEx Examples Rollup",
-    "ticker": "",
     "description": "Rollup that derives the state from L1",
     "url": "https://github.com/paradigmxyz/reth-exex-examples/tree/main/rollup",
     "tags": ["paradigm-repo", "rollup"],

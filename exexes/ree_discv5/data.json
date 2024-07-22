@@ -1,0 +1,7 @@
+{
+    "name": "Reth ExEx Examples Discv5",
+    "description": "Runs discv5 discovery stack",
+    "url": "https://github.com/paradigmxyz/reth-exex-examples/tree/main/discv5",
+    "tags": ["paradigm-repo", "node"],
+    "license": "MIT"
+}
