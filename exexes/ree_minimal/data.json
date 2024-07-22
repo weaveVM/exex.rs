@@ -1,0 +1,8 @@
+{
+    "name": "Reth ExEx Examples Minimal",
+    "ticker": "",
+    "description": "Logs every chain commit, reorg and revert notification",
+    "url": "https://github.com/paradigmxyz/reth-exex-examples/tree/main/minimal",
+    "tags": ["paradigm-repo", "poc"],
+    "license": "MIT"
+}
