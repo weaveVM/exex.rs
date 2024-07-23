@@ -1,0 +1,7 @@
+{
+    "name": "Reth ExEx Examples Backfill",
+    "description": "Exposes an RPC to backfill (execute) a range of blocks",
+    "url": "https://github.com/paradigmxyz/reth-exex-examples/tree/main/backfill",
+    "tags": ["paradigm-repo", "ipc"],
+    "license": "MIT"
+  }  
