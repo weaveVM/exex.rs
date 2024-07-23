@@ -16,8 +16,10 @@
   "scripts": {
     "start": "concurrently \"npm run start:css\" \"react-scripts start\"",
     "start:css": "tailwindcss -o src/tailwind.css --watch",
+    "prebuild": "npm run generate-exexes",
     "build": "npm run build:css && react-scripts build",
-    "build:css": "NODE_ENV=production tailwindcss -o src/tailwind.css -m"
+    "build:css": "NODE_ENV=production tailwindcss -o src/tailwind.css -m",
+    "generate-exexes": "node generateExexesJson.js"
   },
   "eslintConfig": {
     "extends": [
