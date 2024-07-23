@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     fetch('/exexes.json')
       .then(response => response.json())
-      .then(data => setExexes(data));
+      .then(data => setExexes(data.reverse()));
   }, []);
 
   return (
