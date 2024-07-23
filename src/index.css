@@ -3,3 +3,69 @@
 body {
   @apply font-sans;
 }
+
+/* Toggle switch */
+.toggle-checkbox {
+  appearance: none;
+  width: 24px;
+  height: 24px;
+  background: white;
+  border-radius: 9999px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translateX(0);
+  transition: transform 0.3s ease-in-out;
+}
+.toggle-checkbox:checked {
+  transform: translateX(24px);
+}
+.toggle-label {
+  display: inline-block;
+  width: 48px;
+  height: 24px;
+  background: #e5e7eb;
+  border-radius: 9999px;
+  position: relative;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+.toggle-checkbox:checked + .toggle-label {
+  background: #4f46e5;
+}
+.toggle-label::before,
+.toggle-label::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.toggle-label::before {
+  left: 8px;
+  content: '☀️';
+}
+.toggle-label::after {
+  right: 8px;
+  content: '🌙';
+}
+
+/* Toggle switch with icons */
+.toggle-checkbox:checked + .toggle-label .toggle-icon-sun {
+  display: none;
+}
+.toggle-checkbox:checked + .toggle-label .toggle-icon-moon {
+  display: block;
+}
+.toggle-checkbox:not(:checked) + .toggle-label .toggle-icon-moon {
+  display: none;
+}
+.toggle-checkbox:not(:checked) + .toggle-label .toggle-icon-sun {
+  display: block;
+}
+.toggle-label .toggle-icon {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  pointer-events: none;
+}
