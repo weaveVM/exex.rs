@@ -40,6 +40,7 @@ To add an ExEx object, follow these steps in your PR:
 |`smart-contracts`| smart contracts related operations|
 |`paradigm-repo`| ExExes curated from (or created by) Paradigm org|
 |`db`| database usecases |
+| `eip-4844` | EIPs |
 
 ## License
 This project is licensed under the [MIT License](./LICENSE)

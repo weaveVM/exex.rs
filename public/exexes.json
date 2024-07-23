@@ -1,5 +1,18 @@
 [
   {
+    "id": "align_net_blobster",
+    "repolink": "https://github.com/weaveVM/exex.rs/tree/main/exexes/align_net_blobster",
+    "name": "Blobster",
+    "description": "Blobster is a blazing fast and cheap long term Ethereum Blob storage solution, it utilizes an ExEx hat detects blobs, queries the consensus layer, erasure encodes the blobs and stores them in a series of storage nodes erasure encoding.",
+    "url": "https://github.com/AlignNetwork/blobster/tree/master/remote/bin",
+    "tags": [
+      "transaction",
+      "etl",
+      "eip-4844"
+    ],
+    "license": "MIT"
+  },
+  {
     "id": "ree_discv5",
     "repolink": "https://github.com/weaveVM/exex.rs/tree/main/exexes/ree_discv5",
     "name": "Reth ExEx Examples Discv5",
@@ -76,7 +89,7 @@
     "repolink": "https://github.com/weaveVM/exex.rs/tree/main/exexes/wvm_bigquery",
     "name": "GBQ Block ETL",
     "description": "Google BigQuery ETL",
-    "url": "https://github.com/weaveVM/wvm-reth/tree/6091facc0d8750d69a4b2de8137646a202401bb6/wvm-apps/wvm-exexed/crates/bigquery",
+    "url": "https://github.com/weaveVM/wvm-reth/tree/feat/bq-irys-pipeline-2/wvm-apps/wvm-exexed/crates/bigquery",
     "tags": [
       "arweave",
       "block",
@@ -89,9 +102,9 @@
   {
     "id": "wvm_borsh_block",
     "repolink": "https://github.com/weaveVM/exex.rs/tree/main/exexes/wvm_borsh_block",
-    "name": "Borsh Block",
+    "name": "Borsh Serializer",
     "description": "serialize & deserialize block object in Borsh",
-    "url": "https://github.com/weaveVM/wvm-reth/tree/6091facc0d8750d69a4b2de8137646a202401bb6/wvm-apps/wvm-exexed/crates/borsh",
+    "url": "https://github.com/weaveVM/wvm-reth/tree/feat/bq-irys-pipeline-2/wvm-apps/wvm-exexed/crates/wevm-borsh",
     "tags": [
       "data-serialization",
       "block"
@@ -103,7 +116,7 @@
     "repolink": "https://github.com/weaveVM/exex.rs/tree/main/exexes/wvm_irys_xyz_load",
     "name": "Irys Data Uploader",
     "description": "Upload data from Reth to Arweave via Irys.xyz",
-    "url": "https://github.com/weaveVM/wvm-reth/tree/6091facc0d8750d69a4b2de8137646a202401bb6/wvm-apps/wvm-exexed/crates/irys",
+    "url": "https://github.com/weaveVM/wvm-reth/tree/feat/bq-irys-pipeline-2/wvm-apps/wvm-exexed/crates/irys",
     "tags": [
       "arweave",
       "block",
