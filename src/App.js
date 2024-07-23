@@ -26,7 +26,7 @@ const exexes = [
     id: "wvm_borsch_block",
     repolink: "https://github.com/weaveVM/exex.rs/tree/main/exexes/wvm_borsh_block",
     "name": "Borsh Block",
-    "description": "serialize & deserialize block object in Borsh",
+    "description": "Serialize and deserialize block objects with Borsh",
     "url": "https://github.com/weaveVM/wvm-reth/tree/6091facc0d8750d69a4b2de8137646a202401bb6/wvm-apps/wvm-exexed/crates/borsh",
     "tags": ["data-serialization", "block"],
     "license": "MIT"

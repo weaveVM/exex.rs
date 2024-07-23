@@ -20,7 +20,7 @@ const CardGrid = ({ exexes }) => {
     : exexes;
 
   return (
-    <div className="container mx-auto py-8">
+    <div className="container mx-auto px-4 py-8">
       <div className="mb-4">
         {activeFilters.map(tag => (
           <FilterTag key={tag} tag={tag} onRemove={handleTagRemove} />
