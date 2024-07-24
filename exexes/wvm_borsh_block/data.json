@@ -1,6 +1,6 @@
 {
     "name": "Borsh Serializer",
-    "description": "serialize & deserialize block object in Borsh",
+    "description": "Serialize and deserialize block objects in Borsh",
     "url": "https://github.com/weaveVM/wvm-reth/tree/feat/bq-irys-pipeline-2/wvm-apps/wvm-exexed/crates/wevm-borsh",
     "tags": ["data-serialization", "block"],
     "license": "MIT"
