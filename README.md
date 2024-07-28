@@ -41,6 +41,7 @@ To add an ExEx object, follow these steps in your PR:
 |`paradigm-repo`| ExExes curated from (or created by) Paradigm org|
 |`db`| database usecases |
 | `eip-4844` | EIPs |
+| `template` | Reusable ExEx template|
 
 ## License
 This project is licensed under the [MIT License](./LICENSE)

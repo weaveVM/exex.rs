@@ -1,0 +1,7 @@
+{
+    "name": "ExEx Repository Template",
+    "description": "A Reth Execution Extension(ExEx) based template for developing your own ExEx.",
+    "url": "https://github.com/0xurb/reth-exex-template",
+    "tags": ["template"],
+    "license": "MIT"
+  }  
