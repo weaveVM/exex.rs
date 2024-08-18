@@ -1,0 +1,7 @@
+{
+    "name": "Toy example showing GPU ExEx",
+    "description": "This example ExEx creates art with an Apple gpu based on block data",
+    "url": "https://github.com/paradigmxyz/reth/pull/9465/files",
+    "tags": ["example", "gpu", "block"],
+    "license": "MIT"
+  }  
