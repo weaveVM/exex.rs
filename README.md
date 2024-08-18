@@ -42,6 +42,9 @@ To add an ExEx object, follow these steps in your PR:
 |`db`| database usecases |
 | `eip-4844` | EIPs |
 | `template` | Reusable ExEx template|
+| `example` | self-descriptive |
+| `gpu` | self-descriptive |
+
 
 ## License
 This project is licensed under the [MIT License](./LICENSE)
