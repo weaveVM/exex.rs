@@ -3,5 +3,5 @@
     "description": "MEM Lambda transactions relayer. Write smart contracts in JavaScript or Rust on top of WeaveVM",
     "url": "https://github.com/weaveVM/wvm-reth/tree/main/wvm-apps/wvm-exexed/crates/lambda",
     "tags": ["smart-contracts", "arweave", "transaction", "bridge"],
-    "license": "MIT"
+    "license": "BSL 1.1"
   }  

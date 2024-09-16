@@ -3,5 +3,5 @@
     "description": "Google BigQuery ETL",
     "url": "https://github.com/weaveVM/wvm-reth/tree/feat/bq-irys-pipeline-2/wvm-apps/wvm-exexed/crates/bigquery",
     "tags": ["arweave", "block", "etl", "indexer", "cloud"],
-    "license": "MIT"
+    "license": "BSL 1.1"
   }  
