@@ -1,0 +1,7 @@
+{
+    "name": "WeaveVM DA",
+    "description": "Interface with WeaveVM high-throughput longterm DA via ExEx",
+    "url": "https://github.com/weaveVM/wvm-reth/tree/dev/wvm-apps/wvm-exexed/crates/exex-wvm-da",
+    "tags": ["arweave", "data-availability", "wvm"],
+    "license": "MIT"
+  }  
