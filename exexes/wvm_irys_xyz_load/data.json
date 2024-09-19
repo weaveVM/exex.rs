@@ -1,7 +1,0 @@
-{
-    "name": "Irys Data Uploader",
-    "description": "Upload data from Reth to Arweave via Irys.xyz",
-    "url": "https://github.com/weaveVM/wvm-reth/tree/feat/bq-irys-pipeline-2/wvm-apps/wvm-exexed/crates/irys",
-    "tags": ["arweave", "block", "etl"],
-    "license": "BSL 1.1"
-  }  
