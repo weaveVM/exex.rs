@@ -1,0 +1,7 @@
+{
+    "name": "Arweave Data Uploader",
+    "description": "Upload block data from Reth to Arweave via AR.IO Turbo Bundler",
+    "url": "https://github.com/weaveVM/wvm-reth/tree/main/wvm-apps/wvm-exexed/crates/irys",
+    "tags": ["arweave", "block", "etl"],
+    "license": "BSL 1.1"
+  }  
