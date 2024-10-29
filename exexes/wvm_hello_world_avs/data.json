@@ -1,0 +1,7 @@
+{
+    "name": "hello-world-avs-as-exex",
+    "description": "The first EigenLayer AVS' operator fully implemented as Reth ExEx.",
+    "url": "https://github.com/weaveVM/hello-world-avs-as-exex",
+    "tags": ["templates", "wvm"],
+    "license": "MIT"
+  }  
