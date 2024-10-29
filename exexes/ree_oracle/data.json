@@ -1,0 +1,7 @@
+{
+    "name": "Reth ExEx Examples Oracle",
+    "description": "Oracle protocol that observes off-chain data and attests to it on-chain",
+    "url": "https://github.com/paradigmxyz/reth-exex-examples/tree/main/oracle",
+    "tags": ["paradigm-repo", "oracle"],
+    "license": "MIT"
+  }  

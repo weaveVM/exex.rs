@@ -1,7 +1,7 @@
 {
     "name": "Reth ExEx Examples OP Bridge",
     "description": "Decodes Optimism deposit and withdrawal receipts from L1",
-    "url": "https://github.com/paradigmxyz/reth-exex-examples/tree/main/minimal",
+    "url": "https://github.com/paradigmxyz/reth-exex-examples/tree/main/op-bridge",
     "tags": ["paradigm-repo", "bridge"],
     "license": "MIT"
   }  
