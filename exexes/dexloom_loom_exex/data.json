@@ -1,0 +1,7 @@
+{
+    "name": "Loom ExEx",
+    "description": "Fast implementation of backrun bot as ExEx module",
+    "url": "https://github.com/dexloom/loom/tree/main/bin/loom_exex",
+    "tags": ["bot"],
+    "license": "MIT"
+  }  
