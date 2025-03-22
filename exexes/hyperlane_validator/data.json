@@ -1,0 +1,7 @@
+{
+    "name": "Hyperlane Validator as ExEx",
+    "description": "PoC of a Hyperlane validator built on top of Reth's new ExEx framework for post-execution hooks.",
+    "url": "https://github.com/aroralanuk/hyperlane-exex",
+    "tags": ["oracle", "etl"],
+    "license": "UNLICENSE"
+  }  
