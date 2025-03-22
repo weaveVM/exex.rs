@@ -13,7 +13,7 @@ They are called Execution Extensions because the main trigger for them is the ex
 To add an ExEx object, follow these steps in your PR:
 
 1. Create a directory under [exexes](./exexes) with a unique name that follows the snake_case naming convention.
-- If the ExEx is developed by a team or project, it is preferable to add a prefix to the ExEx name while naming your directory. For example, `ree_` refers to [Reth ExEx Examples](https://github.com/paradigmxyz/reth-exex-examples) and `wvm_` refers to [WeaveVM](https://github.com/weaveVM/wvm-reth).
+- If the ExEx is developed by a team or project, it is preferable to add a prefix to the ExEx name while naming your directory. For example, `ree_` refers to [Reth ExEx Examples](https://github.com/paradigmxyz/reth-exex-examples) and `load_` refers to [Load Network](https://github.com/weaveVM/wvm-reth).
 
 2. Create a data.json File: In your ExEx object directory, create a data.json file following the structure provided in the [exex template](./exexes/_template_exex/data.json).
 
