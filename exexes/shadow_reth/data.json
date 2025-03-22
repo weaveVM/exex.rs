@@ -1,0 +1,7 @@
+{
+    "name": "Shadow ExEx",
+    "description": "The Shadow Execution Extension (ExEx) is a Reth execution extension that generates information about shadowed contracts and persists it in a SQLite database.",
+    "url": "https://github.com/shadow-hq/shadow-reth/tree/main/crates/exex",
+    "tags": ["etl", "database"],
+    "license": "MIT"
+  }  
