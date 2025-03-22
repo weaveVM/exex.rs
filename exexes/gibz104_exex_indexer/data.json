@@ -1,0 +1,7 @@
+{
+    "name": "ExEx Indexer",
+    "description": "A real-time Ethereum indexer that writes on-chain data and off-chain mev-boost relay data to a postgres database.",
+    "url": "https://github.com/gibz104/exex-indexer",
+    "tags": ["indexer", "etl", "database"],
+    "license": "MIT"
+  }  
