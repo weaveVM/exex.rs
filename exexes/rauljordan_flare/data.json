@@ -1,0 +1,7 @@
+{
+    "name": "Arbitrum Sequencer Indexer",
+    "description": "Arbitrum Sepolia sequencer inbox reader in Rust using Reth's execution extensions (ExEx). Primitive implementation, reads batch data, brotli decompresses it, and saves it to a sqlite database. Supports reading batches that are posted either as calldata or blobs.",
+    "url": "https://github.com/rauljordan/flare",
+    "tags": ["etl", "indexer"],
+    "license": "UNLICENSE"
+  }  
