@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex justify-between items-center">
           <div>
             <p className="text-gray-700 dark:text-gray-100">
-              Built by <a href="https://wvm.dev" className="text-green-500" target="_blank" rel="noopener noreferrer">WeaveVM</a>
+              Built by <a href="https://load.network" className="text-green-500" target="_blank" rel="noopener noreferrer">Load Network</a>
             </p>
             <p className="text-gray-400 dark:text-gray-300 text-xs sm:text-sm">
               exex.rs is not officially affiliated with Paradigm or the Reth team.
