@@ -1,7 +1,0 @@
-{
-    "name": "WeaveVM Generic Templates",
-    "description": "A collection of ExExes developed by the WeaveVM team, designed to be general-purpose tools and serve as public goods for the Reth community.",
-    "url": "https://github.com/weaveVM/exex-templates",
-    "tags": ["templates", "wvm"],
-    "license": "MIT"
-  }  

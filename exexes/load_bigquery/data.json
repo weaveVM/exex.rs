@@ -1,7 +1,7 @@
 {
     "name": "GBQ Block ETL",
     "description": "Google BigQuery ETL",
-    "url": "https://github.com/weaveVM/wvm-reth/blob/main/wvm-apps/wvm-exexed/crates/reth-exexed/src/main.rs",
+    "url": "https://github.com/weaveVM/exex-templates/tree/main/templates/exex-wvm-bigquery",
     "tags": ["arweave", "block", "etl", "indexer", "cloud"],
     "license": "BSL 1.1"
   }  

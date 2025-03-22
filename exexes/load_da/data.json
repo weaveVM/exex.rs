@@ -1,0 +1,7 @@
+{
+    "name": "WeaveVM DA",
+    "description": "An ExEx template for any Reth client to interface with Load Network's high-throughput longterm DA",
+    "url": "https://github.com/weaveVM/exex-templates/tree/main/templates/exex-wvm-da/src",
+    "tags": ["arweave", "data-availability", "load-network", "template"],
+    "license": "BSL 1.1"
+  }  

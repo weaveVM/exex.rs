@@ -1,7 +1,0 @@
-{
-    "name": "WeaveVM DA",
-    "description": "An ExEx template for any Reth client to interface with WeaveVM's high-throughput longterm DA",
-    "url": "https://github.com/weaveVM/wvm-reth/tree/dev/wvm-apps/wvm-exexed/crates/exex-wvm-da",
-    "tags": ["arweave", "data-availability", "wvm", "template"],
-    "license": "BSL 1.1"
-  }  
