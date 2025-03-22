@@ -1,0 +1,7 @@
+{
+    "name": "load network precompiles as ExEx",
+    "description": "Using ExEx to add custom precompiles to Reth",
+    "url": "https://github.com/weaveVM/wvm-reth/tree/main/wvm-apps/wvm-exexed/crates/precompiles",
+    "tags": ["reth", "load-network", "precompiles"],
+    "license": "MIT"
+  }  
